@@ -1,7 +1,7 @@
 #  Hi there, I'm Kahkashan Manzoor!  
 
-🎓 *M.Sc. Mathematics @ IIT Madras (2023–2025)*  
- *Aspiring Data Scientist | ML & NLP Enthusiast | Streamlit Developer*  
+ *M.Sc. Mathematics @ IIT Madras (2023–2025)*  
+ *Aspiring Data Scientist | ML & NLP Enthusiast*
  [Email](mailto:kahkashanmanzoor06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kahkashan-manzoor-663384287/) • [GitHub](https://github.com/Kahkashan2708) • [Kaggle](https://www.kaggle.com/kashishmanzoor)
 
 ---
@@ -22,7 +22,7 @@
 ## 💼 Experience
 
 ###  AI4Bharat – Data Annotation Intern (May 2025 – Present)
-- Annotated 400+ culturally-grounded prompts in Indian languages.
+- Annotated 500+ culturally-grounded prompts in Indian languages.
 - Hands-on with prompt engineering for inclusive AI.
 
 ###  ERNET India, IITM Research Park – Data Analyst Intern (Jul 2024 – Jan 2025)
