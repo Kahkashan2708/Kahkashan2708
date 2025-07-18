@@ -26,7 +26,7 @@
 - Annotated 500+ culturally-grounded prompts in Indian languages.
 - Hands-on with prompt engineering for inclusive AI.
 
-###  ERNET India, IITM Research Park – Data Analyst Intern (Jul 2024 – Jan 2025)
+###  ERNET India, IITM Research Park – Data Analyst Intern (Jul 2024 – Feb 2025)
 - Cleaned and analyzed real-world outage data.
 - Performed EDA and ML to identify patterns improving decision accuracy by ~20%.
 
