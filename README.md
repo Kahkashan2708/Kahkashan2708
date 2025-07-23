@@ -20,7 +20,7 @@
 
 ---
 
-## 💼 Experience
+##  Experience
 
 ###  AI4Bharat – Data Annotation Intern (May 2025 – Present)
 - Annotated 500+ culturally-grounded prompts in Indian languages.
