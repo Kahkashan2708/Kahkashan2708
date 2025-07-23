@@ -1,6 +1,6 @@
 #  Hi there, I'm Kahkashan Manzoor!  
 
- *M.Sc. Mathematics @ IIT Madras (2023–2025)*  
+ *M.Sc. Mathematics @ IIT Madras  (2023–2025)*  
  *Aspiring Data Scientist | ML & NLP Enthusiast*
  
  [Email](mailto:kahkashanmanzoor06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kahkashan-manzoor-663384287/) • [GitHub](https://github.com/Kahkashan2708) • [Kaggle](https://www.kaggle.com/kahkashanmanzoor)
