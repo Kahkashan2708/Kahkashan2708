@@ -69,7 +69,7 @@
 
 ---
 
-## 🏆 Extracurriculars
+##  Extracurriculars
 
 -  SME at Chegg India (Advanced Mathematics)  
 -  Represented hostel in football tournaments  
