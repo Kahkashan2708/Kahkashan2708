@@ -53,7 +53,7 @@
 
 ---
 
-## 💡 Skills & Tools
+##  Skills & Tools
 
 -  **Languages**: Python, SQL, MATLAB, C  
 -  **ML/DL**: Scikit-learn, PyTorch, XGBoost, OpenCV, Transformers  
