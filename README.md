@@ -78,5 +78,5 @@
 ---
 
 > *“Data is the new oil — and I love refining it into knowledge!”*  
-⭐ *Open to internships, collaborations, and research opportunities in ML/NLP.*
+ *Open to internships, collaborations, and research opportunities in ML/NLP.*
 
