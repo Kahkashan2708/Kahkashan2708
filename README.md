@@ -30,7 +30,7 @@
 - Cleaned and analyzed real-world outage data.
 - Performed EDA and ML to identify patterns improving decision accuracy by ~20%.
 
-###  IIT Guwahati + Mantra – ML Winter Intern (Dec 2024 – Jan 2025)
+###  IIT Guwahati & Mantra – ML Winter Intern (Dec 2024 – Jan 2025)
 - Built ML models (Linear, Tree-based, DL) for regression & prediction tasks.
 - Implemented neural networks with PyTorch.
 
