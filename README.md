@@ -7,7 +7,7 @@
 
 ---
 
-##  Education
+## Education
 
 -  **Indian Institute of Technology Madras**  
   *M.Sc. Mathematics (2023 – 2025)*  
