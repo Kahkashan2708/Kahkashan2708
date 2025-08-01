@@ -1,4 +1,4 @@
-#  Hi there, I'm Kahkashan Manzoor!  
+#  Hi there, I'm Kahkashan Manzoor  
 
  *M.Sc. Mathematics @ IIT Madras  (2023–2025)*  
  *Aspiring Data Scientist | ML & NLP Enthusiast*
