@@ -36,7 +36,7 @@
 
 ---
 
-##  Projects
+## Projects
 
 ###  [Movie Recommender System](https://github.com/Kahkashan2708/Movie_Recommeder_System)
 - Built an end-to-end ML pipeline with Streamlit app.
