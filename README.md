@@ -88,3 +88,11 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=radical&border_radius=10)
 
+## GitHub Stats
+
+![Kahkashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=tokyonight&border_radius=10)
+
