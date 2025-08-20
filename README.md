@@ -78,15 +78,7 @@
 ---
 
 > *“Data is the new oil — and I love refining it into knowledge!”*  
- *Open to internships, collaborations, and research opportunities in ML/NLP.*
-
-##  GitHub Stats
-
-![Kahkashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=radical&border_radius=10)
+ *Open to internships, collaborations, and research opportunities in ML/NLP.
 
 ## GitHub Stats
 
