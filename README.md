@@ -1,90 +1,35 @@
-#  Hi there, I'm Kahkashan Manzoor  
+# Hi, I'm Kahkashan Manzoor  
 
- *M.Sc. Mathematics @ IIT Madras  (2023–2025)*  
- *Aspiring Data Scientist | ML & NLP Enthusiast*
- 
- [Email](mailto:kahkashanmanzoor06@gmail.com) • [LinkedIn](https://www.linkedin.com/in/kahkashan-manzoor-663384287/) • [GitHub](https://github.com/Kahkashan2708) • [Kaggle](https://www.kaggle.com/kahkashanmanzoor)
-
----
-
-## Education
-
--  **Indian Institute of Technology Madras**  
-  *M.Sc. Mathematics (2023 – 2025)*  
-
--  **DDU Gorakhpur University**  
-  *B.Sc. Mathematics (2019 – 2022)*  
-
--  **Loyola High School, Patna**  
-  *Senior Secondary (2017 – 2019)*
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahkashan-manzoor-663384287/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kahkashan2708)  
 
 ---
 
-##  Experience
+## About Me  
+I am a Data Scientist and ML/AI Enthusiast with a strong foundation in Mathematics, currently pursuing an **M.Sc. in Mathematics at IIT Madras**.  
+I have gained hands-on experience through internships and projects at **AI4Bharat, IIT Madras Research Park (ERNET India), and IIT Guwahati**, where I worked on predictive modeling, NLP pipelines, and deep learning architectures.  
 
-###  AI4Bharat – Data Annotation Intern (May 2025 –Present)
-- Annotated 500+ culturally-grounded prompts in Indian languages.
-- Hands-on with prompt engineering for inclusive AI.
+My expertise includes **Python, SQL, PyTorch, Scikit-learn, Pandas, NumPy, MLflow, DVC, and Docker**.  
+I enjoy exploring **Machine Learning, Deep Learning, NLP, Computer Vision, and MLOps** to build impactful AI solutions.  
 
-###  ERNET India, IITM Research Park – Data Analyst Intern (Jul 2024 – Feb 2025)
-- Cleaned and analyzed real-world outage data.
-- Performed EDA and ML to identify patterns improving decision accuracy by ~20%.
-
-###  IIT Guwahati & Mantra – ML Winter Intern (Dec 2024 – Jan 2025)
-- Built ML models (Linear, Tree-based, DL) for regression & prediction tasks.
-- Implemented neural networks with PyTorch.
+Outside of academics and projects, I like to mentor students in Mathematics and contribute to collaborative learning environments.  
 
 ---
 
-## Projects
-
-###  [Movie Recommender System](https://github.com/Kahkashan2708/Movie_Recommeder_System)
-- Built an end-to-end ML pipeline with Streamlit app.
-- Achieved ~85% accuracy, with real-time poster integration.
-
-###  Multilingual Language Classifier (MASSIVE Dataset)
-- Used Naive Bayes and RDA to classify 27 languages.
-- Applied TF-IDF vectorization and hyperparameter tuning.
-
-###  Data Analysis Case Studies
-- **YouTube**: Sentiment analysis + WordCloud  
-- **Stock Market**: Time series & multivariate trend analysis  
-- **E-commerce**: Sales pattern insights using feather data  
+## What I Do  
+- Currently working on: Data Science & ML Projects at IITM Research Park  
+- Currently learning: CI/CD for ML and Advanced Deep Learning Architectures  
+- Looking to collaborate on: Applied ML Research and End-to-End AI Projects  
+- Looking for help with: Optimizing ML pipelines for deployment  
+- Ask me about: Mathematics, Python, Machine Learning, NLP, and MLOps  
+- Words that describe me: Self-motivated, Analytical, Adaptable, Focused, and Hardworking  
 
 ---
 
-##  Skills & Tools
+## GitHub Stats  
 
--  **Languages**: Python, SQL, MATLAB, C  
--  **ML/DL**: Scikit-learn, PyTorch, XGBoost, OpenCV, Transformers  
--  **Tools**: Git, Streamlit, Jupyter, Google Colab, Kaggle, Power BI  
-
----
-
-##  Coursework
-
-- Linear Algebra, Optimization, Game Theory, Statistics, Probability  
-- Machine Learning, Deep Learning, NLP, LLMs, DSA with Python  
-- Data Analytics Lab, FreeCodeCamp, Udemy Certifications  
-
----
-
-##  Extracurriculars
-
--  SME at Chegg India (Advanced Mathematics)  
--  Represented hostel in football tournaments  
--  Event Organizer – Forays 2024, IITM Math Fest  
-
----
-
-> *“Data is the new oil — and I love refining it into knowledge!”*  
- *Open to internships, collaborations, and research opportunities in ML/NLP.
-
-## GitHub Stats
-
-![Kahkashan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=tokyonight&border_radius=10)
+![Kahkashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=default)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=default)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=default)  
 
