@@ -1,8 +1,11 @@
-# Hi, I'm Kahkashan Manzoor  
+# Kahkashan Manzoor  
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)  
+**Aspiring Data Scientist | ML & NLP Enthusiast | M.Sc. Mathematics @ IIT Madras**  
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:kahkashanmanzoor06@gmail.com)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kahkashan-manzoor-663384287/)  
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kahkashan2708)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/kahkashanmanzoor)  
 
 ---
 
@@ -18,18 +21,23 @@ Outside of academics and projects, I like to mentor students in Mathematics and 
 ---
 
 ## What I Do  
-- Currently working on: Data Science & ML Projects at IITM Research Park  
-- Currently learning: CI/CD for ML and Advanced Deep Learning Architectures  
-- Looking to collaborate on: Applied ML Research and End-to-End AI Projects  
-- Looking for help with: Optimizing ML pipelines for deployment  
-- Ask me about: Mathematics, Python, Machine Learning, NLP, and MLOps  
-- Words that describe me: Self-motivated, Analytical, Adaptable, Focused, and Hardworking  
+-  Currently working on: Data Science & ML Projects 
+-  Currently learning: CI/CD for ML and Advanced Deep Learning Architectures  
+-  Looking to collaborate on: Applied ML Research and End-to-End AI Projects  
+-  Looking for help with: Optimizing ML pipelines for deployment  
+-  Ask me about: Mathematics, Python, Machine Learning, NLP, and MLOps  
+-  Words that describe me: Self-motivated, Analytical, Adaptable, Focused, and Hardworking  
 
 ---
 
 ## GitHub Stats  
 
-![Kahkashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=default)  
-![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=default)  
+![Kahkashan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Kahkashan2708&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical)  
+
+---
+
+⭐ *Always open to new opportunities in Data Science, AI Research, and ML Engineering.*  
+ 
 
