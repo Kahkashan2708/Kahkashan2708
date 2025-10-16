@@ -11,14 +11,15 @@
   </a>
   <a href="https://github.com/Kahkashan2708">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
- </a>
+  </a>
   <a href="https://leetcode.com/u/Kahkashan2627/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=Kahkashan2627" alt="LeetCode Badges" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.kaggle.com/kahkashanmanzoor">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" />
   </a>
 </p>
+
 
 ---
 
