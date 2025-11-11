@@ -22,7 +22,7 @@
 
 ---
 
-## 🚀 About Me  
+##  About Me  
 
 I’m a **Data Scientist and AI Enthusiast** with a strong foundation in **Mathematics (M.Sc., IIT Madras)** and a passion for building **intelligent, data-driven systems**.  
 
@@ -32,27 +32,27 @@ I enjoy working across the ML lifecycle — from **data preprocessing to model d
 
 ---
 
-## 💻 What I’m Currently Doing  
+##  What I’m Currently Doing  
 
-- 🔭 **Exploring:** End-to-End ML & Data Science projects with real-world datasets  
-- 📚 **Learning:** Advanced MLOps (CI/CD, Model Monitoring, and Deployment)  
-- 🤝 **Open to Collaborate On:** Applied ML Research, NLP, and AI-driven Products  
-- 💬 **Ask Me About:** Python, ML, NLP, PyTorch, and Model Optimization  
-- 🎯 **Goal:** To build impactful and explainable AI systems that solve real problems  
+-  **Exploring:** End-to-End ML & Data Science projects with real-world datasets  
+-  **Learning:** Advanced MLOps (CI/CD, Model Monitoring, and Deployment)  
+-  **Open to Collaborate On:** Applied ML Research, NLP, and AI-driven Products  
+-  **Ask Me About:** Python, ML, NLP, PyTorch, and Model Optimization  
+-  **Goal:** To build impactful and explainable AI systems that solve real problems  
 
 ---
 
-## 🧠 Tech Stack  
+##  Tech Stack  
 
 **Languages:** Python | SQL  
 **ML/DL Frameworks:** PyTorch | TensorFlow | Scikit-learn  
 **Data Tools:** Pandas | NumPy | Matplotlib | Seaborn  
 **MLOps Tools:** MLflow | DVC | Docker | Git | Weights & Biases (wandb)  
-**Areas of Interest:** NLP | Computer Vision | Time Series | Model Explainability  
+**Areas of Interest:** NLP | Computer Vision | LLM 
 
 ---
 
-## 📊 GitHub Highlights  
+##  GitHub Highlights  
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
@@ -65,16 +65,16 @@ I enjoy working across the ML lifecycle — from **data preprocessing to model d
 
 ---
 
-## 🏆 Featured Interests  
+##  Featured Interests  
 
-- 🧩 **Mathematics for Machine Learning**  
-- 🗣️ **NLP Research (Text Classification, Seq2Seq, Transformers)**  
-- 📈 **Predictive Analytics & Time Series Forecasting**  
-- 🧱 **Model Deployment & MLOps Workflows**  
-- 🧠 **Explainable AI & Model Interpretability**  
+-  **Mathematics for Machine Learning**  
+-  **NLP Research (Text Classification, Seq2Seq, Transformers)**  
+-  **Predictive Analytics & Time Series Forecasting**  
+-  **Model Deployment & MLOps Workflows**  
+-  **Explainable AI & Model Interpretability**  
 
 ---
 
-✅ **Fun Fact:** I love bridging the gap between mathematics and machine learning — turning theory into impactful real-world AI systems!  
+ **Fun Fact:** I love bridging the gap between mathematics and machine learning — turning theory into impactful real-world AI systems!  
 
-⭐ *Actively looking for opportunities in Data Science. *  
+ *Actively looking for opportunities in Data Science. *  
