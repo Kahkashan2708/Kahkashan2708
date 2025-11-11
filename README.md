@@ -26,7 +26,7 @@
 
 I’m a **Data Scientist and AI Enthusiast** with a strong foundation in **Mathematics (M.Sc., IIT Madras)** and a passion for building **intelligent, data-driven systems**.  
 
-I’ve gained hands-on research and industry experience at **AI4Bharat (IIT Madras Research Park)**, **ERNET India**, and **IIT Guwahati**, where I worked on **predictive modeling, NLP pipelines, and deep learning** for real-world applications.  
+I’ve gained hands-on research and industry experience at **AI4Bharat**, **ERNET India (IIT Madras Research Park)**, and **IIT Guwahati**, where I worked on **predictive modeling, NLP pipelines, and deep learning** for real-world applications.  
 
 I enjoy working across the ML lifecycle — from **data preprocessing to model deployment**, with a special interest in **Natural Language Processing, Computer Vision**, and **MLOps** practices for scalable AI systems.
 
