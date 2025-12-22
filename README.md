@@ -53,15 +53,25 @@ I enjoy working across the ML lifecycle — from **data preprocessing to model d
 ---
 
 ##  GitHub Highlights  
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=radical" alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Kahkashan2708&theme=radical" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=radical" 
+       alt="GitHub Stats" height="150"/>
+  <img src="https://streak-stats.demolab.com?user=Kahkashan2708&theme=radical" 
+       alt="GitHub Streak" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical" alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical&hide=jupyter%20notebook" 
+       alt="Top Languages" height="150"/>
 </p>
+
+<p align="center">
+  <sub>
+    ⚠️ GitHub language statistics are based on file size.  
+    Most of my ML/DL work is done in <b>Jupyter Notebooks</b>, which GitHub classifies separately from Python.
+  </sub>
+</p>
+
 
 ---
 
@@ -75,6 +85,6 @@ I enjoy working across the ML lifecycle — from **data preprocessing to model d
 
 ---
 
- **Fun Fact:** I love bridging the gap between mathematics and machine learning — turning theory into impactful real-world AI systems!  
+ **Fun Fact:** I love bridging the gap between mathematics and machine learning,turning theory into impactful real-world AI systems!  
 
  *Actively looking for opportunities in Data Science. *  
