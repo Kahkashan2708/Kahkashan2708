@@ -61,17 +61,9 @@ I enjoy working across the ML lifecycle — from **data preprocessing to model d
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical&hide=jupyter%20notebook" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical" 
        alt="Top Languages" height="150"/>
 </p>
-
-<p align="center">
-  <sub>
-    ⚠️ GitHub language statistics are based on file size.  
-    Most of my ML/DL work is done in <b>Jupyter Notebooks</b>, which GitHub classifies separately from Python.
-  </sub>
-</p>
-
 
 ---
 
