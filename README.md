@@ -1,6 +1,6 @@
 # Kahkashan Manzoor  
 
-**Data Scientist | Machine Learning & NLP Enthusiast | M.Sc. Mathematics, IIT Madras**  
+**M.Sc. Mathematics Student, IIT Madras | Machine Learning & NLP Learner**
 
 <p align="center">
   <a href="mailto:kahkashanmanzoor06@gmail.com">
@@ -22,61 +22,93 @@
 
 ---
 
-##  About Me  
+## 💫 About Me
 
-I’m a **Data Scientist and AI Enthusiast** with a strong foundation in **Mathematics (M.Sc., IIT Madras)** and a passion for building **intelligent, data-driven systems**.  
+I am a **Mathematics postgraduate student at IIT Madras** exploring **Machine Learning, Deep Learning, and Natural Language Processing** through hands-on projects and research-oriented internships.
 
-I’ve gained hands-on research and industry experience at **AI4Bharat**, **ERNET India (IIT Madras Research Park)**, and **IIT Guwahati**, where I worked on **predictive modeling, NLP pipelines, and deep learning** for real-world applications.  
-
-I enjoy working across the ML lifecycle — from **data preprocessing to model deployment**, with a special interest in **Natural Language Processing, Computer Vision**, and **MLOps** practices for scalable AI systems.
+I enjoy learning how theoretical concepts translate into practical systems, especially in areas like **Retrieval-Augmented Generation (RAG)**, **Large Language Models**, and **end-to-end ML workflows**. My current focus is on building a strong foundation while gradually moving toward production-level understanding.
 
 ---
 
-##  What I’m Currently Doing  
+## 🚀 What I’m Currently Doing
 
--  **Exploring:** End-to-End ML & Data Science projects with real-world datasets  
--  **Learning:** Advanced MLOps (CI/CD, Model Monitoring, and Deployment)  
--  **Open to Collaborate On:** Applied ML Research, NLP, and AI-driven Products  
--  **Ask Me About:** Python, ML, NLP, PyTorch, and Model Optimization  
--  **Goal:** To build impactful and explainable AI systems that solve real problems  
-
----
-
-##  Tech Stack  
-
-**Languages:** Python | SQL  
-**ML/DL Frameworks:** PyTorch | TensorFlow | Scikit-learn  
-**Data Tools:** Pandas | NumPy | Matplotlib | Seaborn  
-**MLOps Tools:** MLflow | DVC | Docker | Git | Weights & Biases (wandb)  
-**Areas of Interest:** NLP | Computer Vision | LLM 
+- 📚 Learning and experimenting with **Machine Learning and Deep Learning**
+- 🔍 Exploring **Retrieval-Augmented Generation (RAG)** pipelines  
+- 🧪 Understanding **LLMs, embeddings, and vector search**
+- 🛠️ Practicing **model training, evaluation, and basic deployment**
+- 🤝 Open to collaborating on **learning-focused ML and NLP projects**
 
 ---
 
-##  GitHub Highlights  
+## 💬 Ask Me About
+
+- Machine Learning and Deep Learning fundamentals  
+- Python for data analysis and ML  
+- NLP basics, Transformers, and RAG concepts  
+- Beginner-friendly MLOps tools and workflows  
+
+---
+
+## 💻 Tech Stack
+
+### Languages & Core
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/sql-%230074D9.svg?style=for-the-badge&logo=database&logoColor=white)
+![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
+
+### ML / DL & NLP
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![NLTK](https://img.shields.io/badge/nltk-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Visualization & CV
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black)
+
+### Databases
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
+### MLOps & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+
+### Cloud & Environment
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
+![CUDA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green)
+
+---
+
+##  GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kahkashan2708&show_icons=true&theme=radical" 
-       alt="GitHub Stats" height="150"/>
-  <img src="https://streak-stats.demolab.com?user=Kahkashan2708&theme=radical" 
-       alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kahkashan2708&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=Kahkashan2708&theme=gruvbox&hide_border=false" height="150"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&layout=compact&theme=radical" 
-       alt="Top Languages" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kahkashan2708&theme=gruvbox&hide_border=false&layout=compact" height="150"/>
 </p>
 
 ---
 
-##  Featured Interests  
+⚡ **Fun Fact:** I enjoy learning how mathematical ideas power modern machine learning systems and real-world AI applications.
 
--  **Mathematics for Machine Learning**  
--  **NLP Research (Text Classification, Seq2Seq, Transformers)**  
--  **Predictive Analytics & Time Series Forecasting**  
--  **Model Deployment & MLOps Workflows**  
--  **Explainable AI & Model Interpretability**  
+📌 *Currently learning and actively building projects in Machine Learning and AI.*
 
 ---
 
- **Fun Fact:** I love bridging the gap between mathematics and machine learning,turning theory into impactful real-world AI systems!  
+[![](https://visitcount.itsvg.in/api?id=Kahkashan2708&icon=0&color=0)](https://visitcount.itsvg.in)
 
- *Actively looking for opportunities in Data Science. *  
