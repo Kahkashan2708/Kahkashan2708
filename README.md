@@ -1,6 +1,6 @@
 # Kahkashan Manzoor  
 
-**M.Sc. Mathematics Student, IIT Madras | Machine Learning & NLP Learner**
+**M.Sc. Mathematics, IIT Madras | Machine Learning & NLP Learner**
 
 <p align="center">
   <a href="mailto:kahkashanmanzoor06@gmail.com">
@@ -22,7 +22,7 @@
 
 ---
 
-## 💫 About Me
+## About Me
 
 I am a **Mathematics postgraduate student at IIT Madras** exploring **Machine Learning, Deep Learning, and Natural Language Processing** through hands-on projects and research-oriented internships.
 
@@ -30,7 +30,7 @@ I enjoy learning how theoretical concepts translate into practical systems, espe
 
 ---
 
-## 🚀 What I’m Currently Doing
+## What I’m Currently Doing
 
 - 📚 Learning and experimenting with **Machine Learning and Deep Learning**
 - 🔍 Exploring **Retrieval-Augmented Generation (RAG)** pipelines  
@@ -40,7 +40,7 @@ I enjoy learning how theoretical concepts translate into practical systems, espe
 
 ---
 
-## 💬 Ask Me About
+## Ask Me About
 
 - Machine Learning and Deep Learning fundamentals  
 - Python for data analysis and ML  
@@ -49,7 +49,7 @@ I enjoy learning how theoretical concepts translate into practical systems, espe
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Core
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
