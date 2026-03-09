@@ -32,12 +32,9 @@ I enjoy learning how theoretical concepts translate into practical systems, espe
 
 ## What I’m Currently Doing
 
-- 📚 Learning and experimenting with **Machine Learning and Deep Learning**
 - 🔍 Exploring **Retrieval-Augmented Generation (RAG)** pipelines  
 - 🧪 Understanding **LLMs, embeddings, and vector search**
 - 🛠️ Practicing **model training, evaluation, and basic deployment**
-- 🤝 Open to collaborating on **learning-focused ML and NLP projects**
-
 ---
 
 ## Ask Me About
@@ -45,8 +42,6 @@ I enjoy learning how theoretical concepts translate into practical systems, espe
 - Machine Learning and Deep Learning fundamentals  
 - Python for data analysis and ML  
 - NLP basics, Transformers, and RAG concepts  
-- Beginner-friendly MLOps tools and workflows  
-
 ---
 
 ## Tech Stack
